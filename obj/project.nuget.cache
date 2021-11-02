@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9H29e7xji5X77cg7WiISLtIlRZbtCEAVcfzR4+uNImgPZa/wOI+oCbQfMXH8pEzUytSAkcvOGUx1EGs/WDL8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desing\\source\\repos\\KubernetesE\\KubernetesE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desing\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.10\\microsoft.visualstudio.azure.containers.tools.targets.1.10.10.nupkg.sha512",
+    "C:\\Users\\desing\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
