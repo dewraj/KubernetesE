@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "edgecluster-dd41"
+    labels:
+        app: "edgecluster-dd41"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: edgecluster8a73-edgecluster-dd41.7963c2afe1e94f46a16a.eastasia.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "edgecluster-dd41"
+                servicePort: 80
